@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transmilenio app en java
 
 
@@ -90,3 +91,7 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+=======
+# TransmilenioJava
+A java proyect about a bus routes on my city . This is for show the POO and the logic skills.
+>>>>>>> 901088d1a4259d39fb95c663c77a39457abcb7ac
